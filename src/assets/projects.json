@@ -1,0 +1,34 @@
+[
+  {
+  "id": 1,
+  "title": "Uber Clone",
+  "description": "Uber Clone is a full-stack ride-hailing application inspired by Uber, allowing users to book rides, track drivers in real-time, and manage payments. It includes role-based features for riders and drivers, real-time location tracking, ride history, and secure authentication.",
+  "skill": [
+    "React.js, Tailwind CSS",
+    "Node.js, Express.js, REST APIs",
+    "MongoDB, Mongoose",
+    "Socket.io (real-time communication), Google Maps API",
+    "JWT Authentication"
+  ],
+  "img": "https://media.designrush.com/inspiration_images/725449/conversions/Uber-Image-1-desktop.jpg",
+  "bgColor": "bg-blue-400",
+  "gitHub": "https://github.com/kousik-devop/Uber-Clone"
+},
+  {
+  "id": 2,
+  "title": "Zerodha Clone",
+  "description": "Zerodha Clone is a full-stack stock trading platform inspired by Zerodha, enabling users to buy and sell stocks, manage portfolios, view real-time market data, and track investment performance. It features secure authentication, role-based dashboards, chart visualizations, and integration with live stock market APIs.",
+  "skill": [
+    "React.js, Tailwind CSS, Redux",
+    "Node.js, Express.js, REST APIs",
+    "MongoDB, Mongoose",
+    "WebSockets / Socket.io (live stock updates)",
+    "JWT Authentication, OAuth",
+    "Chart.js / Recharts (data visualization)",
+    "Third-party Stock Market APIs (e.g., Alpha Vantage, Yahoo Finance)"
+  ],
+  "img": "https://cdn.dribbble.com/userupload/10300164/file/still-dac82f201b36c85335d45c9d8c3da39d.png",
+  "bgColor": "bg-green-400",
+  "gitHub": "https://github.com/kousik-devop/Zerodha-Clone"
+}
+]
