@@ -14,21 +14,31 @@
   "bgColor": "bg-blue-400",
   "gitHub": "https://github.com/kousik-devop/Uber-Clone"
 },
-  {
+{
   "id": 2,
-  "title": "Zerodha Clone",
-  "description": "Zerodha Clone is a full-stack stock trading platform inspired by Zerodha, enabling users to buy and sell stocks, manage portfolios, view real-time market data, and track investment performance. It features secure authentication, role-based dashboards, chart visualizations, and integration with live stock market APIs.",
-  "skill": [
-    "React.js, Tailwind CSS, Redux",
-    "Node.js, Express.js, REST APIs",
-    "MongoDB, Mongoose",
-    "WebSockets / Socket.io (live stock updates)",
-    "JWT Authentication, OAuth",
-    "Chart.js / Recharts (data visualization)",
-    "Third-party Stock Market APIs (e.g., Alpha Vantage, Yahoo Finance)"
+  "title": "Reeleat – Reels-based Food Discovery App",
+  "description": "Reeleat is a modern, reels-style food discovery platform inspired by Zomato, where users explore restaurants and dishes through swipeable vertical food reels. The app delivers a fast, immersive, and visual browsing experience with smooth animations, restaurant profiles, creator-style food videos, and smart recommendations. Includes dual authentication for Users and Food Partners, real-time content updates, and restaurant dashboards for uploading food reels.",
+  "features": [
+    "Reels-style vertical food discovery feed",
+    "Swipe, like, comment, and save interactions",
+    "Dual authentication: User & Food Partner",
+    "Food Partner dashboard to upload videos/images",
+    "Interactive restaurant pages with menus & ratings",
+    "Real-time feed updates with optimized APIs",
+    "Secure JWT-based login system",
+    "Highly responsive UI with smooth animations"
   ],
-  "img": "https://cdn.dribbble.com/userupload/10300164/file/still-dac82f201b36c85335d45c9d8c3da39d.png",
-  "bgColor": "bg-green-400",
-  "gitHub": "https://github.com/kousik-devop/Zerodha-Clone"
+  "skill": [
+    "React.js, Tailwind CSS",
+    "Node.js, Express.js",
+    "MongoDB, Mongoose",
+    "JWT Authentication",
+    "Cloud media upload (Cloudinary/S3)",
+    "REST APIs",
+    "Video optimization & caching"
+  ],
+  "img": "../../public/reeleat.png",
+  "bgColor": "bg-rose-400",
+  "demo": "https://reeleat.vercel.app/"
 }
 ]
